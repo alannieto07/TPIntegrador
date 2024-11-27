@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1730936406 source:c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\main.cpp
+	<iostream>
+	<cstdint>
+	"menu.h"
+	"juego.h"
+	"rlutil.h"
+
+1731021208 source:c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\menu.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+	<string>
+
+1730936032 c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\menu.h
+	"rlutil.h"
+	<string>
+
+1731022597 source:c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\juego.cpp
+	<cstdint>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"juego.h"
+	"rlutil.h"
+
+1730940652 c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\juego.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	<string>
+
+1730841839 c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730935164 source:c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\menu.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+	<string>
+
+1730935235 c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\juego.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	<string>
+
+1730841839 c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730932917 source:c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\juego.cpp
+	<cstdint>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"juego.h"
+	"rlutil.h"
+
+1730904964 source:c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\main.cpp
+	<iostream>
+	<cstdint>
+	"menu.h"
+	"juego.h"
+	"rlutil.h"
+
+1730927799 c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\menu.h
+	"rlutil.h"
+	<string>
+
+1731640015 source:c:\users\agust\desktop\100-o-escalera(v3)\juego.cpp
+	<cstdint>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"juego.h"
+	"rlutil.h"
+
+1731637295 c:\users\agust\desktop\100-o-escalera(v3)\juego.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	<string>
+
+1730841839 c:\users\agust\desktop\100-o-escalera(v3)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730936406 source:c:\users\agust\desktop\100-o-escalera(v3)\main.cpp
+	<iostream>
+	<cstdint>
+	"menu.h"
+	"juego.h"
+	"rlutil.h"
+
+1730936032 c:\users\agust\desktop\100-o-escalera(v3)\menu.h
+	"rlutil.h"
+	<string>
+
+1731626592 source:c:\users\agust\desktop\100-o-escalera(v3)\menu.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+	<string>
+
+1730936406 source:c:\users\agust\desktop\escalera_agus\main.cpp
+	<iostream>
+	<cstdint>
+	"menu.h"
+	"juego.h"
+	"rlutil.h"
+
+1730936032 c:\users\agust\desktop\escalera_agus\menu.h
+	"rlutil.h"
+	<string>
+
+1730841839 c:\users\agust\desktop\escalera_agus\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731815282 c:\users\agust\desktop\escalera_agus\juego.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	<string>
+
+1731626592 source:c:\users\agust\desktop\escalera_agus\menu.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+	<string>
+
+1732069407 source:c:\users\agust\desktop\escalera_agus\juego.cpp
+	<cstdint>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"juego.h"
+	"rlutil.h"
+
+1730936406 source:c:\users\usuario\downloads\escalera_tp\main.cpp
+	<iostream>
+	<cstdint>
+	"menu.h"
+	"juego.h"
+	"rlutil.h"
+
+1730936032 c:\users\usuario\downloads\escalera_tp\menu.h
+	"rlutil.h"
+	<string>
+
+1730841839 c:\users\usuario\downloads\escalera_tp\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731815282 c:\users\usuario\downloads\escalera_tp\juego.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	<string>
+
+1731626592 source:c:\users\usuario\downloads\escalera_tp\menu.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+	<string>
+
